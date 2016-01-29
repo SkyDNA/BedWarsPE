@@ -113,7 +113,7 @@ teams:
   black: "Black"
  colors:
   white: "§f"
-  orange: "§2"
+  orange: "§6"
   magenta: "§4"
   lightBlue: "§9"
   yellow: "§e"
@@ -125,8 +125,8 @@ teams:
   purple: "§d"
   blue: "§1"
   brown: "§8"
-  green: "§a"
-  red: "§c"
+  green: "§2"
+  red: "§4"
   black: "§0"
  data:
   white: 0
