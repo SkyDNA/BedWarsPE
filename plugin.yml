@@ -1,8 +1,8 @@
 name: BedWars
 main: BedWars\BedWars
 version: 1.0
-api: 1.13.0
-load: STARTUP
+api: 3.0.0-ALPHA11
+0load: STARTUP
 author: Ragnok123
 description: BedWars MiniGame
 commands:
